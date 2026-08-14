@@ -1,0 +1,18 @@
+# build output
+/sse-relay
+*.exe
+*.test
+*.out
+
+# go workspaces
+go.work
+go.work.sum
+
+# local config
+.env
+.env.local
+
+# editors
+.idea/
+.vscode/
+.DS_Store
